@@ -1,0 +1,13 @@
+html
+{
+    background-color: red;}
+
+.img
+{
+    width: 300px;
+}
+.flex
+{
+    display: flex;
+    flex-wrap: wrap;
+}
